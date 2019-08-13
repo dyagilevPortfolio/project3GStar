@@ -1,0 +1,127 @@
+@media (max-width: 1200px) {
+    .header__phone {
+        display: none;
+}
+    .services {
+        padding-top: 100px;
+    }
+}
+
+@media (max-width: 1144px) {
+    .services {
+        padding-top: 100px;
+    }
+}
+
+
+@media (max-width: 992px) {
+    .header__phone {
+        display: none;
+}
+    .header__social-list {
+    margin-right: 15px;
+    text-align: center;
+} 
+    .header__menu{
+    text-align: right;
+}
+    .price__list {
+        text-align: center;
+    }
+    .price__button {
+        margin-bottom: 20px;
+    }
+    .admin__list {
+        text-align: center;
+    }
+    .admin__button {
+        margin-bottom: 20px;
+    }
+    .footer__list {
+        margin-bottom: 15px;
+    }
+    .services {
+        padding-top: 200px;
+    }
+}
+
+@media (max-width: 768px) {
+    .header__social-list {
+        padding-left: 0;
+    } 
+    .top__title  {
+        font-size: 25px;
+    }
+
+    .benefits__block-left {
+        margin-bottom: 15px;
+
+    }
+}
+
+@media (max-width: 630px) {
+    .header__menu-list {
+        right: -10px;
+    }
+}
+
+@media (max-width: 576px) {
+    .services {
+        padding-top: 340px;
+    }
+    .top__inner {
+        padding-top: 200px;
+    }
+
+    .footer__list {
+        padding-left: 10px;
+    }
+} 
+
+@media (max-width: 540px) {
+    .services {
+        padding-top: 450px;
+    }
+}
+
+@media (max-width: 490px) {
+    .footer__list {
+        display: block;
+    }
+}
+
+@media (max-width: 470px) {
+    .header__icons {
+        display: none;
+    }
+}
+
+
+@media (max-width: 395px) {
+    .services {
+        padding-top: 470px;
+    }
+
+    .footer__list {
+        width: 280px;
+    }
+
+} 
+
+@media (max-width: 350px) {
+    .services {
+        padding-top: 500px;
+    }
+} 
+
+@media (max-width: 342px) {
+    .services {
+        padding-top: 615px;
+    }
+} 
+
+@media (max-width: 320px) {
+    .services {
+        padding-top: 680px;
+    }
+} 
